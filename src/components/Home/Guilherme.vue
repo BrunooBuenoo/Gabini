@@ -53,16 +53,4 @@
     line-height: 1.2; 
     word-break: break-word; 
 }
-
-/* .item-weight {
-    position: absolute;
-    top: 10px; 
-    left: 10px; 
-    background: rgba(0, 0, 0, 0.7); 
-    color: #fff; 
-    padding: 5px 10px; 
-    border-radius: 5px; 
-    font-size: 1rem; 
-    z-index: 10; 
-} */
 </style>
